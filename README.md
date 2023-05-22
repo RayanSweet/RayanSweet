@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RayanSweet
 - 👀 I’m interested with web development
 - 🌱 I’m currently learning web stuff
-- 📫 How to reach me ...
+- 📫 How to reach me : rayan.telli@outlook.fr
 
 <!---
 RayanSweet/RayanSweet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
